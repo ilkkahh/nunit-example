@@ -1,0 +1,8 @@
+NUnitTest/bin/
+packages/NUnit.2.6.3/NUnit.2.6.3.nupkg
+packages/
+NUnitTest/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+NUnitTest/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+NUnitTest/obj/
+NUnitTest.sln.DotSettings.user
+NUnitTest.v11.suo
